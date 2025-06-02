@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im3do&label=Profile%20views&color=0e75b6&style=flat" alt="im3do" /> </p>
 
-- 🔭 I’m currently working on **Nothing, sadly :(**
+- 🔭 I’m currently working on **A hobby project for CTF Creation**
 
 - 🌱 I’m currently learning **Assembly, Data Structure, and probably something else**
 
