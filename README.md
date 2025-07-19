@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A hobby project for CTF Creation**
 
-- 🌱 I’m currently learning **Ricing Arch Linux, and the git tools**
+- 🌱 I’m currently learning **Arch Linux ricing, and the git tools**
 
 - 🤝 I’m looking for help with **Life, just life**
 
